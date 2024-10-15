@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  
+publish:
+  gh-pages: true
 
 website:
   title: "PSTAT 199 Website"
