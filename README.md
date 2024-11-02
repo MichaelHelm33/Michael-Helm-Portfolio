@@ -1,5 +1,1 @@
-We building websites, lets goooooooo.
-
-r linelk
-
-new line r
+Making this a personal website.

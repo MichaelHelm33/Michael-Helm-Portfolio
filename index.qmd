@@ -8,7 +8,7 @@ Explore my professional journey:
 
 <div class="link-blocks">
   <a href="Michael Helm Resume F24 DS.pdf" class="link-block">Resume</a>
-  <a href="NFL Combine Final Project (Classification).pdf" class="link-block">NFL Combine Machine Learning Project</a>
+  <a href="NFL Combine Final Project (Classification).pdf" class="link-block">NFL Combine ML Project</a>
   <a href="about.qmd" class="link-block">About Me</a>
   <a href="internship.qmd" class="link-block">Internship</a>
 </div>

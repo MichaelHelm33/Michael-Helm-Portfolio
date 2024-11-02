@@ -19,7 +19,7 @@ website:
       - href: ml-combine-project.qmd
         text: "Machine Learning Project"  # Links to the embedded project page
       - href: internship.qmd
-        text: "Internship"
+        text: "Internship Experience"
 
 format:
   html:

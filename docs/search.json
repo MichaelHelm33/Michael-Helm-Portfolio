@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Michael Helm Portfolio",
+    "title": "Michael Helm's Portfolio",
     "section": "",
-    "text": "Welcome to Michael Helm’s Portfolio\nExplore my professional journey:\n\nResume NFL Combine Machine Learning Project About Me Internship"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\ndsf\nc\nzcx\nHere is another new line,\nblah blah blah sksjdklfsdjk"
   },
   {
     "objectID": "about.html",
@@ -12,33 +12,5 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "About Me.html",
-    "href": "About Me.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Here is a little about me…."
-  },
-  {
-    "objectID": "internship.html",
-    "href": "internship.html",
-    "title": "internship",
-    "section": "",
-    "text": "Here I will talk about my internship"
-  },
-  {
-    "objectID": "ml-combine-project.html",
-    "href": "ml-combine-project.html",
-    "title": "ml-combine-project",
-    "section": "",
-    "text": "NFL Combine Final Project\n\n&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"NFL Combine Final Project (Classification).pdf\"&gt;Download Project&lt;/a&gt;&lt;/p&gt;"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "resume",
-    "section": "",
-    "text": "Resume\n\n&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"Michael Helm Resume F24 DS.pdf\"&gt;Download Resume&lt;/a&gt;&lt;/p&gt;"
   }
 ]
