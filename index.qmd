@@ -2,13 +2,13 @@
 title: "Michael Helm Portfolio"
 ---
 
-# Welcome to Michael Helm's Portfolio
-
 Explore my professional journey:
 
 <div class="link-blocks">
-  <a href="Michael Helm Resume F24 DS.pdf" class="link-block">Resume</a>
-  <a href="NFL Combine Final Project (Classification).pdf" class="link-block">NFL Combine ML Project</a>
-  <a href="about.qmd" class="link-block">About Me</a>
+  <a href="resume.qmd" class="link-block">Resume</a>
+  <a href="ml-project.qmd" class="link-block">Machine Learning Project</a>
   <a href="internship.qmd" class="link-block">Internship</a>
+  <a href="about.qmd" class="link-block">About Me</a>
 </div>
+
+All about me 
