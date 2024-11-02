@@ -14,10 +14,10 @@ website:
         text: Home
       - href: about.qmd
         text: "About Me"
-      - href: "Michael Helm Resume F24 DS.pdf"
-        text: "Resume"
-      - href: "NFL Combine Final Project (Classification).pdf"
-        text: "NFL Combine Project"
+      - href: resume.qmd
+        text: "Resume"  # Links to the embedded resume page
+      - href: ml-combine-project.qmd
+        text: "Machine Learning Project"  # Links to the embedded project page
       - href: internship.qmd
         text: "Internship"
 

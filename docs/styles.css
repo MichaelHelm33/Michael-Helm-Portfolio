@@ -1,1 +1,32 @@
-/* css styles */
+/* Style for embedded PDF iframes */
+iframe {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Additional style for centering and spacing of link blocks (if needed) */
+.link-blocks {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.link-block {
+  padding: 15px 25px;
+  text-align: center;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.link-block:hover {
+  background-color: #0056b3;
+}
+
+
