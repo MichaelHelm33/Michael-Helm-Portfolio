@@ -6,7 +6,7 @@ Explore my professional journey:
 
 <div class="link-blocks">
   <a href="resume.qmd" class="link-block">Resume</a>
-  <a href="ml-project.qmd" class="link-block">Machine Learning Project</a>
+  <a href="ml-combine-project.qmd" class="link-block">Machine Learning Project</a>
   <a href="internship.qmd" class="link-block">Internship</a>
   <a href="about.qmd" class="link-block">About Me</a>
 </div>
