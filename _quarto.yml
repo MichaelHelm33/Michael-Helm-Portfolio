@@ -1,17 +1,25 @@
 project:
   type: website
   output-dir: docs
-  
+
 publish:
   gh-pages: true
 
 website:
-  title: "PSTAT 199 Website"
+  title: "Michael Helm's Portfolio"
+  search: true  # Enable search functionality
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: "About Me"
+      - href: "Michael Helm Resume F24 DS.pdf"
+        text: "Resume"
+      - href: "NFL Combine Final Project (Classification).pdf"
+        text: "NFL Combine Project"
+      - href: internship.qmd
+        text: "Internship"
 
 format:
   html:
@@ -20,4 +28,5 @@ format:
     toc: true
 
 editor: visual
+
 

@@ -1,21 +1,14 @@
 ---
-title: "PSTAT 199 Website"
+title: "Michael Helm Portfolio"
 ---
 
-This is a Quarto website.
+# Welcome to Michael Helm's Portfolio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Explore my professional journey:
 
-```{r}
-1 + 1
-```
-
-dsf
-
-c
-
-zcx
-
-Here is another new line,
-
-blah blah blah sksjdklfsdjk
+<div class="link-blocks">
+  <a href="Michael Helm Resume F24 DS.pdf" class="link-block">Resume</a>
+  <a href="NFL Combine Final Project (Classification).pdf" class="link-block">NFL Combine Project</a>
+  <a href="about.qmd" class="link-block">About Me</a>
+  <a href="internship.qmd" class="link-block">Internship</a>
+</div>
