@@ -1,8 +1,6 @@
 ---
-title: "ml-combine-project"
+title: "NFL Combine Machine Leanring Project"
 ---
-
-# NFL Combine Final Project
 
 <iframe src="NFL Combine Final Project (Classification).pdf" width="100%" height="600px">
 
