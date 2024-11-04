@@ -2,25 +2,54 @@
 title: "Internship Experience"
 ---
 
-**Internship Experience at New American Funding**
+## Internship Experience at New American Funding
 
-I completed a remote internship with New American Funding, a company specializing in mortgage and loan solutions. As a data intern, I contributed to projects focused on data-driven insights for financial decision-making.
+I had the opportunity to intern with **New American Funding (NAF)** as a Data Analyst Intern. NAF operates in the mortgage industry, offering a range of services including realtors and loan officers for both financed and cash options. My internship provided me with invaluable hands-on experience and insight into the world of data analytics within a corporate setting.
 
-**Key Responsibilities**
+### Key Responsibilities
 
-Analyzed and cleaned mortgage data using SQL to prepare it for visualization.
-Created new variables to identify trends in potential loan areas.
-Developed reports and dashboards in Power BI, which were used to guide branch locations on business opportunities.
+In my role, my primary tasks included:
 
+-   Cleaning and analyzing various datasets to extract relevant information.
 
-**Skills and Tools Used**
+-   Data wrangling and creating new metrics from existing variables.
 
-SQL for data cleaning and analysis
-Power BI for visualizations and tabular reports
-Microsoft Teams for collaboration
+-   Developing visualizations to convey insights effectively.
 
-**Achievements and Impact**
+-   Collaborating and communicating with team members to align on project tasks and goals. Meeting with team members weekly to re-align project goals.
 
-Produced a tabular report that was presented to executives, including the CEO, to highlight potential business areas, enabling management to make informed decisions on expanding loan offerings.
-Reflection on My Internship
-This internship gave me valuable experience in the finance industry and reinforced my passion for data analytics. It strengthened my skills in SQL and Power BI and provided me with hands-on experience in creating visualizations that can inform executive-level decision-making.
+### Project Overview
+
+During my 10-week internship, I worked on a single, large-scale project aimed at leveraging a relatively new program that NAF had launched. Due to company confidentiality, I can’t provide specific details, but the project focused on identifying ideal locations in the U.S. for this program. This analysis was intended to guide loan officer training and targeted marketing efforts in these areas.
+
+At the end of the project, I presented my findings to a group of 20 people, including NAF’s CEO and CTO. This presentation included a tabular report and a map displaying key metrics by state, which highlighted the most promising areas for the company’s program.
+
+### Tools and Technologies Used
+
+During my internship, I gained practical experience with several tools and platforms, including:
+
+-   **SQL** (on Snowflake): Used extensively for data cleaning, querying, and manipulation.
+
+-   **Python**: Employed for data wrangling and exploratory data analysis.
+
+-   **Power BI**: Used to create visualizations and dashboards, including the final report.
+
+-   **Microsoft Teams**: For remote communication and collaboration with my team.
+
+-   **Azure DevOps**: Managed tasks and tracked team progress using this ticketing system.
+
+### Achievements and Impact
+
+I’m most proud of the hands-on skills I developed during this internship, particularly in SQL. Previously, my experience with SQL had been limited to pre-cleaned datasets in academic settings, so working with raw, real-world data was a valuable learning experience. The project I worked on aligned with a major company goal, and my final report was ultimately distributed to branch managers to help inform loan officers. My analysis also revealed new potential areas that had been previously overlooked due to shifts in the market.
+
+### Lessons Learned
+
+Throughout my internship, I learned the importance of effective remote communication, especially using Microsoft Teams. I also gained experience with new tools like Snowflake, Power BI, and Azure DevOps, which broadened my technical skills and prepared me for future roles in data analytics.
+
+### Career Influence and Personal Growth
+
+This internship solidified my passion for data analytics as a long-term career path. It also sparked my interest in working with data in a sports context, as I realized how rewarding it could be to apply my skills in a field I’m deeply passionate about. Additionally, the experience improved both my technical coding skills and my communication skills, particularly within meetings.
+
+### Overcoming Challenges
+
+I faced several challenges during my internship. Coming in with limited hands-on experience, I had to quickly adapt by researching and learning on the job. Fortunately, I was assigned a fantastic mentor who guided me through these challenges, teaching me new tools and sharing insights that extended beyond the workplace.

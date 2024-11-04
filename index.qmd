@@ -35,22 +35,29 @@
     padding: 10px 20px;
     border-radius: 5px;
   }
+
+  /* Center the subtitle text */
+  .subtitle {
+    text-align: center;
+    font-size: 1.2em; /* Optional: Adjust font size */
+    margin-top: 20px; /* Optional: Add space above the text */
+  }
 </style>
 
 # Michael Helm Portfolio
 
-
 <!-- Profile Image as Background -->
 <div class="profile-image"></div>
 
-
-A Glimpse into My Work and Experience:
+<!-- Centered Subtitle -->
+<div class="subtitle">A Glimpse into My Work and Experience:</div>
 
 <!-- Link Blocks -->
 <div class="link-blocks">
+  <a href="About Me.qmd" class="link-block">About Me</a>
   <a href="resume.qmd" class="link-block">Resume</a>
   <a href="ml-combine-project.qmd" class="link-block">Machine Learning Project</a>
   <a href="internship.qmd" class="link-block">Internship</a>
-  <a href="About Me.qmd" class="link-block">About Me</a>
+  <a href="https://www.linkedin.com/in/michael-helm-979a37280" class = "link-block">Linkedin</a>
 </div>
 
