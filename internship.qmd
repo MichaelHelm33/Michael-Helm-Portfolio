@@ -2,4 +2,25 @@
 title: "Internship Experience"
 ---
 
-Here I will talk about my internship
+**Internship Experience at New American Funding**
+
+I completed a remote internship with New American Funding, a company specializing in mortgage and loan solutions. As a data intern, I contributed to projects focused on data-driven insights for financial decision-making.
+
+**Key Responsibilities**
+
+Analyzed and cleaned mortgage data using SQL to prepare it for visualization.
+Created new variables to identify trends in potential loan areas.
+Developed reports and dashboards in Power BI, which were used to guide branch locations on business opportunities.
+
+
+**Skills and Tools Used**
+
+SQL for data cleaning and analysis
+Power BI for visualizations and tabular reports
+Microsoft Teams for collaboration
+
+**Achievements and Impact**
+
+Produced a tabular report that was presented to executives, including the CEO, to highlight potential business areas, enabling management to make informed decisions on expanding loan offerings.
+Reflection on My Internship
+This internship gave me valuable experience in the finance industry and reinforced my passion for data analytics. It strengthened my skills in SQL and Power BI and provided me with hands-on experience in creating visualizations that can inform executive-level decision-making.

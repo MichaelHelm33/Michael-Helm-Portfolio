@@ -1,14 +1,56 @@
----
-title: "Michael Helm Portfolio"
----
 
-Explore my professional journey:
 
+<style>
+  /* Center the title */
+  h1 {
+    text-align: center;
+  }
+
+  /* Style for circular, zoomed-in background image */
+  .profile-image {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* Size of the circular frame */
+    height: 150px;
+    border-radius: 50%;
+    background-image: url('images/IMG_1034.jpg'); /* Path to your image */
+    background-size: 600%; /* Zoom level */
+    background-position: 50% 45%; /* Adjust to focus on the middle person */
+    background-repeat: no-repeat;
+  }
+
+  /* Center and style the link blocks */
+  .link-blocks {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .link-block {
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+</style>
+
+# Michael Helm Portfolio
+
+
+<!-- Profile Image as Background -->
+<div class="profile-image"></div>
+
+
+A Glimpse into My Work and Experience:
+
+<!-- Link Blocks -->
 <div class="link-blocks">
   <a href="resume.qmd" class="link-block">Resume</a>
   <a href="ml-combine-project.qmd" class="link-block">Machine Learning Project</a>
   <a href="internship.qmd" class="link-block">Internship</a>
-  <a href="about.qmd" class="link-block">About Me</a>
+  <a href="About Me.qmd" class="link-block">About Me</a>
 </div>
 
-All about me 

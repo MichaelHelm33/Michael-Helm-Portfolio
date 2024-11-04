@@ -2,6 +2,8 @@
 title: "About Me"
 ---
 
-Here is a little about me....
+Hi, I'm Michael Helm, originally from Temecula, California, and currently studying statistics and data science at the University of California, Santa Barbara. Sports have been a part of my life from a young age, and they’ve become a true passion of mine. A goal for me is to pursue a career that lets me work closely with sports through data, combining my love for the game with my new-found passion of data anal.
 
-xvbxcvb
+As I work toward my B.S. in Statistics and Data Science, I’ve developed skills in machine learning, data visualization, and statistical modeling. During my internship at New American Funding, I had the opportunity to apply these skills in finance, but my true aspiration is to enter the world of sports analytics and contribute to data-driven decision-making in sports organizations.
+
+I’m proficient in Python, SQL, and Power BI, and I'm constantly looking to expand my expertise in sports data. Outside of academics and work, I’m an active basketball player and fantasy football enthusiast, always analyzing stats and strategies to improve. I’d love to connect with others in the field of sports analytics, so feel free to reach out on LinkedIn!
