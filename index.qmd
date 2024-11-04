@@ -54,7 +54,7 @@
 
 <!-- Link Blocks -->
 <div class="link-blocks">
-  <a href="About Me.qmd" class="link-block">About Me</a>
+  <a href="About-Me.qmd" class="link-block">About Me</a>
   <a href="resume.qmd" class="link-block">Resume</a>
   <a href="ml-combine-project.qmd" class="link-block">Machine Learning Project</a>
   <a href="internship.qmd" class="link-block">Internship</a>
