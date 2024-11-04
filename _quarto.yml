@@ -12,7 +12,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: About-ME.qmd
+      - href: About-Me.qmd
         text: "About Me"
       - href: resume.qmd
         text: "Resume"  # Links to the embedded resume page

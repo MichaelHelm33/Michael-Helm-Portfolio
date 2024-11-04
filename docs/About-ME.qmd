@@ -2,6 +2,8 @@
 title: "About Me"
 ---
 
+## About Me
+
 Hi, I'm Michael Helm, a Statistics and Data Science major at the University of California, Santa Barbara. Originally from Temecula, California, I’m passionate about the power of data-driven decision-making and the meaningful insights that data can uncover. What excites me most is using data to reveal trends and patterns that might otherwise go unnoticed—insights that can drive better strategies and impactful decisions.
 
 ### Why Sports Analytics?

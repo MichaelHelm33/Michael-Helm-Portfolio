@@ -2,8 +2,6 @@
 title: "Internship Experience"
 ---
 
-## Internship Experience at New American Funding
-
 I had the opportunity to intern with **New American Funding (NAF)** as a Data Analyst Intern. NAF operates in the mortgage industry, offering a range of services including realtors and loan officers for both financed and cash options. My internship provided me with invaluable hands-on experience and insight into the world of data analytics within a corporate setting.
 
 ### Key Responsibilities
